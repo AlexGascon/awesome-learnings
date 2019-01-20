@@ -5,3 +5,4 @@ Repository containing short articles about several computer science and software
 ## Current learnings
 - [SQL UNION](https://github.com/AlexGascon/awesome-learnings/blob/master/sql-union.md)
 - [Parallelism vs Concurrency](https://github.com/AlexGascon/awesome-learnings/blob/master/parallelism-concurrency.md)
+- [CPython, Cython, PyPy... An introductory guide to the different Python variants](https://github.com/AlexGascon/awesome-learnings/blob/master/python-cython-pypy.md)
